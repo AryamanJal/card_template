@@ -1,0 +1,1401 @@
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 20.6.29) (format=lualatex 2021.12.14)  2 FEB 2022 13:17
+ restricted system commands enabled.
+**christmas-card-2019.tex
+(./christmas-card-2019.tex
+LaTeX2e <2020-02-02> patch level 5
+Lua module: luaotfload-main 2020-05-06 3.14 luaotfload entry point
+Lua module: luaotfload-init 2020-05-06 3.14 luaotfload submodule / initializatio
+n
+Lua module: lualibs 2020-05-01 2.71 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2020-05-01 2.71 ConTeXt Lua libraries -- extended c
+ollection.
+Lua module: luaotfload-log 2020-05-06 3.14 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2020-05-06 3.14 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2020-05-06 3.14 luaotfload submodule / conf
+ig file reader
+luaotfload | conf : Root cache directory is "C:/Users/Dell/AppData/Local/MiKTeX/
+luatex-cache/generic-dev/names".
+luaotfload | init : Loading fontloader "fontloader-2020-05-06.lua" from kpse-res
+olved path "C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/fo
+ntloader-2020-05-06.lua".
+Lua-only attribute luaotfload@noligature = 1
+Lua-only attribute luaotfload@syllabe = 2
+luaotfload | init : Context OpenType loader version 0x1.8e353f7ced917p+1
+Lua module: luaotfload-fallback 2020-05-06 3.14 luaotfload submodule / fallback
+Lua module: luaotfload-multiscript 2020-05-06 3.14 luaotfload submodule / multis
+cript
+Lua module: luaotfload-script 2020-05-06 3.14 luaotfload submodule / Script help
+ers
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Lua module: luaotfload-loaders 2020-05-06 3.14 luaotfload submodule / callback h
+andling
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua module: luaotfload-database 2020-05-06 3.14 luaotfload submodule / database
+Lua module: luaotfload-unicode 2020-05-06 3.14 luaotfload submodule / Unicode he
+lpers
+Lua module: luaotfload-colors 2020-05-06 3.14 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 3
+Lua module: luaotfload-resolvers 2020-05-06 3.14 luaotfload submodule / resolver
+s
+luaotfload | conf : Root cache directory is "C:/Users/Dell/AppData/Local/MiKTeX/
+luatex-cache/generic-dev/names".
+Lua module: luaotfload-features 2020-05-06 3.14 luaotfload submodule / features
+Lua module: luaotfload-harf-define 2020-05-06 3.14 luaotfload submodule / databa
+se
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
+Lua module: luaotfload-harf-plug 2020-05-06 3.14 luaotfload submodule / database
+Inserting `Harf pre_output_filter callback' at position 1 in `pre_output_filter'
+.
+Inserting `Harf wrapup_run callback' at position 1 in `wrapup_run'.
+Inserting `Harf finish_pdffile callback' at position 1 in `finish_pdffile'.
+Inserting `Harf glyph_info callback' at position 1 in `glyph_info'.
+Lua module: luaotfload-letterspace 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-embolden 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-notdef 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-suppress 2020-05-06 3.14 luaotfload submodule / suppress
+Lua module: luaotfload-szss 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-auxiliary 2020-05-06 3.14 luaotfload submodule / auxiliar
+y functions
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
+t'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
+Lua module: luaotfload-tounicode 2020-05-06 3.14 luaotfload submodule / tounicod
+e
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
+. L3 programming layer <2020-06-18>
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from C:/Users/Dell/AppData/Local/Mi
+KTeX/luatex-cache/generic-dev/names/luaotfload-names.luc)
+\c@part=\count163
+\c@section=\count164
+\c@subsection=\count165
+\c@subsubsection=\count166
+\c@paragraph=\count167
+\c@subparagraph=\count168
+\c@figure=\count169
+\c@table=\count170
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count171
+\Gm@cntv=\count172
+\c@Gm@tempcnt=\count173
+\Gm@bindingoffset=\dimen135
+\Gm@wd@mp=\dimen136
+\Gm@odd@mp=\dimen137
+\Gm@even@mp=\dimen138
+\Gm@layoutwidth=\dimen139
+\Gm@layoutheight=\dimen140
+\Gm@layouthoffset=\dimen141
+\Gm@layoutvoffset=\dimen142
+\Gm@dimlist=\toks16
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/geometry/geometry.cfg))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 112
+.
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 105.
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/graphics-def/luatex.def
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+) (C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/graphbox/graphbox.sty
+Package: graphbox 2018/01/17 v1.1 extension for graphicx to adjust containing bo
+x
+\Gin@box@box=\box45
+\Gin@box@width=\skip49
+\Gin@box@height=\skip50
+\Gin@box@raise=\skip51
+\Gin@box@hspace=\skip52
+\Gin@box@bwidth=\skip53
+\Gin@box@bheight=\skip54
+) (C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/listings.sty
+\lst@mode=\count174
+\lst@gtempboxa=\box46
+\lst@token=\toks19
+\lst@length=\count175
+\lst@currlwidth=\dimen145
+\lst@column=\count176
+\lst@pos=\count177
+\lst@lostspace=\dimen146
+\lst@width=\dimen147
+\lst@newlines=\count178
+\lst@lineno=\count179
+\lst@maxwidth=\dimen148
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count180
+\lst@skipnumbers=\count181
+\lst@framebox=\box47
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count182
+\mult@box=\box48
+\multicol@leftmargin=\dimen149
+\c@unbalance=\count183
+\c@collectmore=\count184
+\doublecol@number=\count185
+\multicoltolerance=\count186
+\multicolpretolerance=\count187
+\full@width=\dimen150
+\page@free=\dimen151
+\premulticols=\dimen152
+\postmulticols=\dimen153
+\multicolsep=\skip55
+\multicolbaselineskip=\skip56
+\partial@page=\box49
+\last@line=\box50
+\maxbalancingoverflow=\dimen154
+\mult@rightbox=\box51
+\mult@grightbox=\box52
+\mult@gfirstbox=\box53
+\mult@firstbox=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\c@minrows=\count188
+\c@columnbadness=\count189
+\c@finalcolumnbadness=\count190
+\last@try=\dimen155
+\multicolovershoot=\dimen156
+\multicolundershoot=\dimen157
+\mult@nat@firstbox=\box92
+\colbreak@box=\box93
+\mc@col@check@num=\count191
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgfornament/pgfornament.
+sty
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgf/frontendlayer/tikz.s
+ty
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgf.sty
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrcs.sty
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil-
+common.tex
+\pgfutil@everybye=\toks20
+\pgfutil@tempdima=\dimen158
+\pgfutil@tempdimb=\dimen159
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil-
+common-lists.tex))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil-
+latex.def
+\pgfutil@abb=\box94
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfrcs.c
+ode.tex
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgf/basiclayer/pgfcore.s
+ty
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgf/systemlayer/pgfsys.s
+ty
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsys
+.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfkeys.
+code.tex
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfkeysf
+iltered.code.tex
+\pgfkeys@tmptoks=\toks23
+))
+\pgf@x=\dimen160
+\pgf@y=\dimen161
+\pgf@xa=\dimen162
+\pgf@ya=\dimen163
+\pgf@xb=\dimen164
+\pgf@yb=\dimen165
+\pgf@xc=\dimen166
+\pgf@yc=\dimen167
+\pgf@xd=\dimen168
+\pgf@yd=\dimen169
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count192
+\c@pgf@countb=\count193
+\c@pgf@countc=\count194
+\c@pgf@countd=\count195
+\t@pgf@toka=\toks24
+\t@pgf@tokb=\toks25
+\t@pgf@tokc=\toks26
+\pgf@sys@id@count=\count196
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgf.cf
+g
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-luatex.def
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsys
+-luatex.def
+File: pgfsys-luatex.def 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsys
+-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsys
+softpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count197
+\pgfsyssoftpath@bigbuffer@items=\count198
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/systemlayer/pgfsys
+protocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.code.
+tex
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathcalc.c
+ode.tex
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathutil.c
+ode.tex)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathparser
+.code.tex
+\pgfmath@dimen=\dimen170
+\pgfmath@count=\count199
+\pgfmath@box=\box95
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+ons.code.tex
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+ons.basic.code.tex)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+ons.trigonometric.code.tex)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+ons.random.code.tex)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+ons.comparison.code.tex)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+ons.base.code.tex)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+ons.round.code.tex)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+ons.misc.code.tex)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfuncti
+ons.integerarithmetics.code.tex)))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmathfloat.
+code.tex
+\c@pgfmathroundto@lastzeros=\count266
+))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfint.code.t
+ex)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+points.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen171
+\pgf@picmaxx=\dimen172
+\pgf@picminy=\dimen173
+\pgf@picmaxy=\dimen174
+\pgf@pathminx=\dimen175
+\pgf@pathmaxx=\dimen176
+\pgf@pathminy=\dimen177
+\pgf@pathmaxy=\dimen178
+\pgf@xx=\dimen179
+\pgf@xy=\dimen180
+\pgf@yx=\dimen181
+\pgf@yy=\dimen182
+\pgf@zx=\dimen183
+\pgf@zy=\dimen184
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+pathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen185
+\pgf@path@lasty=\dimen186
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+pathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen187
+\pgf@shorten@start@additional=\dimen188
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+scopes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box96
+\pgf@hbox=\box97
+\pgf@layerbox@main=\box98
+\pgf@picture@serial@count=\count267
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+graphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen189
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+transformations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen190
+\pgf@pt@y=\dimen191
+\pgf@pt@temp=\dimen192
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+quick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+objects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+pathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+arrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen193
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+shade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen194
+\pgf@sys@shading@range@num=\count268
+\pgf@shadingcount=\count269
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+image.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+external.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box99
+))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+layers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+transparency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+patterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/basiclayer/pgfcore
+rdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodules
+hapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box100
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodulep
+lot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/pgfcom
+p-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen195
+\pgf@nodesepend=\dimen196
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgf/compatibility/pgfcom
+p-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgffor.sty
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfkeys.st
+y
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfkeys.
+code.tex))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgf/math/pgfmath.sty
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.code.
+tex))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgffor.c
+ode.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/math/pgfmath.code.
+tex)
+\pgffor@iter=\dimen197
+\pgffor@skip=\dimen198
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
+/tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/libraries/pgflibra
+ryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count270
+\pgfplotmarksize=\dimen199
+)
+\tikz@lastx=\dimen256
+\tikz@lasty=\dimen257
+\tikz@lastxsaved=\dimen258
+\tikz@lastysaved=\dimen259
+\tikz@lastmovetox=\dimen260
+\tikz@lastmovetoy=\dimen261
+\tikzleveldistance=\dimen262
+\tikzsiblingdistance=\dimen263
+\tikz@figbox=\box101
+\tikz@figbox@bg=\box102
+\tikz@tempbox=\box103
+\tikz@tempbox@bg=\box104
+\tikztreelevel=\count271
+\tikznumberofchildren=\count272
+\tikznumberofcurrentchild=\count273
+\tikz@fig@count=\count274
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/modules/pgfmodulem
+atrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count275
+\pgfmatrixcurrentcolumn=\count276
+\pgf@matrix@numberofcolumns=\count277
+)
+\tikz@expandcount=\count278
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
+/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks32
+\pgfopts@list@add@b@toks=\toks33
+)
+Package: pgfornament 2020/05/26 v1.2 vector ornaments
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgfornament/pgflibraryve
+ctorian.code.tex
+2020/04/06 1.1 pgflibraryvectorian.code.tex
+))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/ebgaramond/ebgaramond.st
+y
+Package: ebgaramond 2020/04/12 (Bob Tennent and autoinst) Style file for EB Gara
+mond fonts.
+ (C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkeyval.tex
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks34
+\XKV@tempa@toks=\toks35
+)
+\XKV@depth=\count279
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.sty
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xparse
+.sty (C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-06-18 L3 programming layer (loader) 
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdfm
+ode.def
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count280
+\l__pdf_internal_box=\box105
+))
+Package: xparse 2020-05-15 L3 Experimental document command parser
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/xparse/xparse
+-generic.tex
+\l__xparse_current_arg_int=\count281
+\g__xparse_grabber_int=\count282
+\l__xparse_m_args_int=\count283
+\l__xparse_v_nesting_int=\count284
+))
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-luatex
+.sty
+Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count285
+\l__fontspec_language_int=\count286
+\l__fontspec_strnum_int=\count287
+\l__fontspec_tmp_int=\count288
+\l__fontspec_tmpa_int=\count289
+\l__fontspec_tmpb_int=\count290
+\l__fontspec_tmpc_int=\count291
+\l__fontspec_em_int=\count292
+\l__fontspec_emdef_int=\count293
+\l__fontspec_strong_int=\count294
+\l__fontspec_strongdef_int=\count295
+\l__fontspec_tmpa_dim=\dimen264
+\l__fontspec_tmpb_dim=\dimen265
+\l__fontspec_tmpc_dim=\dimen266
+ (C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec.cfg)))
+
+Package fontspec Info: Font family 'EBGaramond(0)' created for font
+(fontspec)             'EBGaramond' with options [Ligatures = TeX,Scale =
+(fontspec)             1,SmallCapsFeatures={Renderer=Basic},Extension =
+(fontspec)             .otf,Ligatures=TeX,Numbers =
+(fontspec)             {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont =
+(fontspec)             *-BoldItalic,FontFace={m}{sw}{Font=*-Italic,Style=Swash},
+FontFace={b}{sw}{Font=*-BoldItalic,Style=Swash}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - (m/sw) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]:mode=node;script=latn;la
+nguage=dflt;+tlig;+pnum;+onum;+swsh;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]:mode=base;script=latn;la
+nguage=dflt;+tlig;+pnum;+onum;+swsh;+smcp;"
+(fontspec)             - (b/sw) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]:mode=node;script=lat
+n;language=dflt;+tlig;+pnum;+onum;+swsh;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]:mode=base;script=lat
+n;language=dflt;+tlig;+pnum;+onum;+swsh;+smcp;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]:mode=node;script=latn;l
+anguage=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]:mode=base;script=latn;l
+anguage=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]:mode=node;script=latn;lang
+uage=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]:mode=base;script=latn;lang
+uage=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]:mode=node;script=latn;la
+nguage=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]:mode=base;script=latn;la
+nguage=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]:mode=node;script=lat
+n;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]:mode=base;script=lat
+n;language=dflt;+tlig;+pnum;+onum;+smcp;"
+
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 124.
+
+Package fontspec Info: Font family 'EBGaramond(1)' created for font
+(fontspec)             'EBGaramond' with options [Ligatures = TeX,Scale =
+(fontspec)             1,SmallCapsFeatures={Renderer=Basic},Extension =
+(fontspec)             .otf,Numbers = {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]:mode=node;script=latn;l
+anguage=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]:mode=base;script=latn;l
+anguage=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]:mode=node;script=latn;lang
+uage=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]:mode=base;script=latn;lang
+uage=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]:mode=node;script=latn;la
+nguage=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]:mode=base;script=latn;la
+nguage=dflt;+tlig;+pnum;+onum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]:mode=node;script=lat
+n;language=dflt;+tlig;+pnum;+onum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]:mode=base;script=lat
+n;language=dflt;+tlig;+pnum;+onum;+smcp;"
+
+
+Package fontspec Info: Font family 'EBGaramond(2)' created for font
+(fontspec)             'EBGaramond' with options [Ligatures = TeX,Scale =
+(fontspec)             1,SmallCapsFeatures={Renderer=Basic},Extension =
+(fontspec)             .otf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]:mode=node;script=latn;l
+anguage=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]:mode=base;script=latn;l
+anguage=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]:mode=node;script=latn;lang
+uage=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]:mode=base;script=latn;lang
+uage=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]:mode=node;script=latn;la
+nguage=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]:mode=base;script=latn;la
+nguage=dflt;+tlig;+pnum;+lnum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]:mode=node;script=lat
+n;language=dflt;+tlig;+pnum;+lnum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]:mode=base;script=lat
+n;language=dflt;+tlig;+pnum;+lnum;+smcp;"
+
+luaotfload | aux : font no 36 (nil) defines no feature for script latn
+luaotfload | aux : font no 36 (nil) defines no feature for script dflt
+
+Package fontspec Info: Font family 'EBGaramond-Initials(0)' created for font
+(fontspec)             'EBGaramond-Initials' with options [Ligatures =
+(fontspec)             TeX,Scale =
+(fontspec)             1,SmallCapsFeatures={Renderer=Basic},Extension =
+(fontspec)             .otf,BoldFont={},ItalicFont={},SmallCapsFont={}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Initials.otf]:mode=node;language=dfl
+t;+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+LaTeX Info: Redefining \oldstylenums on input line 152.
+LaTeX Info: Redefining \liningnums on input line 153.
+LaTeX Info: Redefining \textsw on input line 187.
+
+Package fontspec Info: Font family 'EBGaramond(3)' created for font
+(fontspec)             'EBGaramond' with options [Ligatures = TeX,Scale =
+(fontspec)             1,SmallCapsFeatures={Renderer=Basic},Extension =
+(fontspec)             .otf,Numbers = {Monospaced,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]:mode=node;script=latn;l
+anguage=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Regular.otf]:mode=base;script=latn;l
+anguage=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]:mode=node;script=latn;lang
+uage=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Bold.otf]:mode=base;script=latn;lang
+uage=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]:mode=node;script=latn;la
+nguage=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-Italic.otf]:mode=base;script=latn;la
+nguage=dflt;+tlig;+tnum;+onum;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]:mode=node;script=lat
+n;language=dflt;+tlig;+tnum;+onum;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[EBGaramond-BoldItalic.otf]:mode=base;script=lat
+n;language=dflt;+tlig;+tnum;+onum;+smcp;"
+
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfpages.s
+ty
+Package: pgfpages 2011/01/05 ver 0.02
+ (C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count296
+\calc@Bcount=\count297
+\calc@Adimen=\dimen267
+\calc@Bdimen=\dimen268
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count298
+\calc@Cskip=\skip59
+)
+\pgf@logicalpages=\count299
+\pgf@firstshipout=\count300
+\pgf@lastshipout=\count301
+\pgf@currentshipout=\count302
+\pgf@cpn=\count303
+\pgf@shipoutnextto=\count304
+\pgfphysicalheight=\dimen269
+\pgfphysicalwidth=\dimen270
+\pgfpages@shipoutbox=\box106
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/tikzpagenodes/tikzpageno
+des.sty
+Package: tikzpagenodes 2012/09/16 v1.1 Special PGF/TikZ nodes for areas of the p
+age
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count305
+)) (C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/comment/comment.sty
+\CommentStream=\write4
+
+Excluding comment 'comment')
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
+/libraries/tikzlibrarychains.code.tex
+File: tikzlibrarychains.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgf/frontendlayer/tikz
+/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/crop/crop.sty
+Package: crop 2017/11/19 1.10 crop marks (mf)
+\stockwidth=\dimen271
+\stockheight=\dimen272
+\CROP@index=\count306
+\CROP@offset=\count307
+Package crop Info: Local config file crop.cfg used on input line 622.
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/xelatex/xetexconfig/crop.cfg))
+\pgfpages@box@2=\box107
+\pgfpages@box@1=\box108
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2020/03/24 1.8d listings language file
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2020/03/24 1.8d listings language file
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+)
+(./christmas-card-2019.aux)
+\openout1 = christmas-card-2019.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 48
+.
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(21.33955pt, 256.07483pt, 21.33955pt)
+* v-part:(T,H,B)=(21.33955pt, 554.82877pt, 21.33955pt)
+* \paperwidth=298.75394pt
+* \paperheight=597.50787pt
+* \textwidth=256.07483pt
+* \textheight=554.82877pt
+* \oddsidemargin=-50.93044pt
+* \evensidemargin=-50.93044pt
+* \topmargin=-87.93044pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count308
+\scratchdimen=\dimen273
+\scratchbox=\box109
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen274
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks37
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/infwarerr/infwarerr.st
+y
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/kvdefinekeys/kvdefinek
+eys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/kvsetkeys/kvsetkeys.st
+y
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pdftexcmds/pdftexcmds.
+sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks38
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
+5.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG
+,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)
+\c@lstlisting=\count314
+ ABD: EveryShipout initializing macros
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 48.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 48.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 48.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 48.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 48.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 48.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 48.
+LaTeX Font Info:    Redeclaring math accent \check on input line 48.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 48.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 48.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 48.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 48.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 48.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/EBGaramond(0)/m/n on input line 48.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 48.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(0)/m/n on input line 48.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/EBGaramond(0)/m/n --> TU/EBGaramond(0)/m/n on input l
+ine 48.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/EBGaramond(0)/m/it on input line 48.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/EBGaramond(0)/b/n on input line 48.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 48.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 48.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/EBGaramond(0)/m/n --> TU/EBGaramond(0)/b/n on input l
+ine 48.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/EBGaramond(0)/b/it on input line 48
+.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 48.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 48.
+Package crop Info: requested driver: `' on input line 48.
+Package crop Info: detected driver: `luatex' on input line 48.
+Package crop Info: using `luatex' graphics driver on input line 48.
+
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf) Excluding 'comment' comment.
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
+(Font)              scaled to size 20.74pt on input line 86.
+<aj.jpg, id=4, 549.85425pt x 501.072pt>
+File: aj.jpg Graphic file (type jpg)
+<use aj.jpg>
+Package luatex.def Info: aj.jpg  used on input line 91.
+(luatex.def)             Requested size: 142.26378pt x 129.64105pt.
+<heart.jpg, id=5, 90.0966pt x 81.6651pt>
+File: heart.jpg Graphic file (type jpg)
+<use heart.jpg>
+Package luatex.def Info: heart.jpg  used on input line 93.
+(luatex.def)             Requested size: 142.26378pt x 128.9534pt.
+<ng_cute.jpg, id=6, 643.80525pt x 496.254pt>
+File: ng_cute.jpg Graphic file (type jpg)
+<use ng_cute.jpg>
+Package luatex.def Info: ng_cute.jpg  used on input line 95.
+(luatex.def)             Requested size: 142.26378pt x 109.65326pt.
+ Excluding 'comment' comment.
+Excluding 'comment' comment.
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian62.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+(C:/Users/Dell/AppData/Local/Programs/MiKTeX/tex/generic/pgfornament/vectorian/
+vectorian61.pgf)
+<ajng.jpg, id=7, 416.757pt x 555.2745pt>
+File: ajng.jpg Graphic file (type jpg)
+<use ajng.jpg>
+Package luatex.def Info: ajng.jpg  used on input line 166.
+(luatex.def)             Requested size: 142.26378pt x 189.5449pt.
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 182.
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 185.
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 185.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 185.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 185.
+ [3{C:/Users/Dell/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+<./aj.jpg><./heart.jpg><./ng_cute.jpg><./ajng.jpg>] (./christmas-card-2019.aux))
+
+
+Here is how much of LuaTeX's memory you used:
+ 20124 strings out of 480878
+ 596089,2848258 words of node,token memory allocated
+ 455 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 6 attribute, 55 glue_spec,
+ 6 attribute_list, 3 write nodes
+   avail lists: 1:3,2:86207,3:82152,4:98,5:134,6:50,7:5966,8:1,9:2962,10:6,11:36
+
+ 36369 multiletter control sequences out of 65536+200000
+ 50 fonts using 9729171 bytes
+ 68i,10n,134p,486b,941s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Dell/AppData/Local/Programs/MiKTeX/fonts/opentype/public/ebgaramond/EB
+Garamond-Regular.otf>
+Output written on christmas-card-2019.pdf (1 page, 852581 bytes).
+
+PDF statistics: 20 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 16 words of extra memory for PDF output out of 10000 (max. 100000000)
+
